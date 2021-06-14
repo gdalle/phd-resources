@@ -6,25 +6,41 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: PhD Resources
 
 # Your name to show in the footer
-author: Some Person
+author: Guillaume Dalle
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  General resources:
+    - Admin: "pages/general/admin"
+    - Bibliography: "pages/general/bibliography"
+    - Health: "pages/general/health"
+    - Humanities: "pages/general/humanities"
+    - Methods: "pages/general/methods"
+    - STEM: "pages/general/stem"
+    - Writing: "pages/general/writing"
+  Software tutorials:
+    - Git(Hub): "pages/tutorials/git"
+    - Julia: "pages/tutorials/julia"
+    - LaTeX: "pages/tutorials/latex"
+    - VSCode: "pages/tutorials/vscode"
+    - Zotero: "pages/tutorials/zotero"
+  École des Ponts:
+    - Admin: "pages/enpc/admin"
+    - Grad schools: "pages/enpc/ed"
+    - Labs: "pages/enpc/labs"
+    - Research: "pages/enpc/research"
+    - Software: "pages/enpc/software"
+  Contribute: "pages/main/contribute"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -39,15 +55,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "guillaume.dalle@enpc.fr"
+  github: gdalle
+  twitter: giomdal
+  linkedin: guillaume-dalle
+  # facebook: deanattali
+  # youtube: c/daattali
+  # patreon: DeanAttali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -65,20 +81,18 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: A list of useful resources and tips for PhD students and researchers in general.
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
   linkedin: true
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://gdalle.github.io/phd-resources/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -162,11 +176,11 @@ footer-link-col: "#404040"
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
-#utterances:
-#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  issue-term: title   # Mapping between blog posts and GitHub issues
-#  theme: github-light # Utterances theme
-#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+utterances:
+ repository: gdalle/phd-resources # GitHub username/repository eg. "daattali/beautiful-jekyll"
+ issue-term: title   # Mapping between blog posts and GitHub issues
+ theme: github-light # Utterances theme
+ label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection. 
@@ -193,11 +207,12 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+# paginate: 5
+
 
 kramdown:
   input: GFM
