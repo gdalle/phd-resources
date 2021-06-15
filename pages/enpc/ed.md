@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Grad schools
+title: Graduate schools
+subtitles: Resources specific to each "école doctorale"
 ---
 
 | Website                                                                                                                  | Description                                                                      |

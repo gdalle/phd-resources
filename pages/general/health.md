@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Health
+subtitle: Take care of your health, it is way more important than your PhD
 ---
-
-Here you will find resources to take care of your health, which **should always come before your PhD**.
 
 ## Mental health
 

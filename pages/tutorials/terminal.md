@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Terminal
+subtitle: I'll be bash...
 ---
 
 > Work in progress

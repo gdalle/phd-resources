@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Julia
+subtitle: Faster than Python, cooler than C
 ---
 
 ## The basics

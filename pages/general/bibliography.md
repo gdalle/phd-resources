@@ -1,16 +1,8 @@
 ---
 layout: page
 title: Bibliography
+subtitle: Collect and organize scientific documents
 ---
-
-Here you will find resources to help you collect and organize scientific documents.
-
-## Storing papers
-
-| Website                           | Description                      |
-| --------------------------------- | -------------------------------- |
-| [Zotero](https://www.zotero.org/) | Bibliography management software |
-| [Tropy](https://tropy.org/)       | Zotero for pictures              |
 
 ## Finding papers
 
@@ -22,7 +14,14 @@ Here you will find resources to help you collect and organize scientific documen
 | [VosViewer](https://www.vosviewer.com/)             | Visualize bibliometric networks                      |
 | [Altmetric](https://www.altmetric.com/)             | Monitor online activity related to your publications |
 
-## Reading and assessing papers
+## Storing your sources
+
+| Website                           | Description                                                        |
+| --------------------------------- | ------------------------------------------------------------------ |
+| [Zotero](https://www.zotero.org/) | Bibliography management software ([tutorial](../../tutorials/zotero)) |
+| [Tropy](https://tropy.org/)       | Zotero for pictures                                                |
+
+## Rankings
 
 | Website                                                | Description                     |
 | ------------------------------------------------------ | ------------------------------- |

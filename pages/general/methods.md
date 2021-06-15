@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Methods
+subtitles: Best practices and tools for research and communication
 ---
-
-Here you fill find resources related to best practices and tools for research and communication.
 
 ## Open source and free software
 

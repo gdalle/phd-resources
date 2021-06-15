@@ -1,6 +1,7 @@
 ---
 layout: page
 title: VSCode
+subtitle: One IDE to rule them all
 ---
 
 As a PhD student, especially in STEM, you are likely to need several programming languages to get the job done. For instance, I regularly need to open Markdown, LaTeX, Python, Julia, JSON and PDF files. Of course, you could switch between software to open or edit each kind of file, but it becomes tiresome after a while.

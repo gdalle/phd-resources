@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Zotero
+subtitle: Like a library, but tidier
 ---
 
 Once you reach a certain number of articles and books, simply storing them as PDF files is no longer enough. [Zotero](https://www.zotero.org/) is a bibliography manager that lets you easily organize and exploit your academic sources.

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Writing
+subtitle: Improve your writing workflow and style
 ---
-
-Here you will find resources to help you write better.
 
 ## Software
 
@@ -24,7 +23,7 @@ Here you will find resources to help you write better.
 
 | Website                                 | Description                                                                                    |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [LaTeX](https://www.latex-project.org/) | The reference tool for scientific and mathematical writing ([tutorial](../tutorials/latex.md)) |
+| [LaTeX](https://www.latex-project.org/) | The reference tool for scientific and mathematical writing ([tutorial](../../tutorials/latex)) |
 | [Overleaf](https://www.overleaf.com/)   | Online LaTeX editor                                                                            |
 
 ### Handwriting

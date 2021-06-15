@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Admin
+title: Administrative
+subtitle: Official procedures, career, paperwork and finances
 ---
-
-Here you will find resources related to administrative procedures for students in France.
 
 ## Career and advice
 

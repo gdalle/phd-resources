@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Labs
+title: Laboratories
+subtitle: Resources specific to each lab
 ---
 
 | Website                                  | Description                                                                   |

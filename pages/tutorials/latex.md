@@ -1,9 +1,10 @@
 ---
 layout: page
 title: LaTeX
+subtitle: It's pronounced "la-tek"
 ---
 
-[LaTeX](https://www.latex-project.org/) (pronounced "la-tek") is the reference software to edit scientific documents and articles.
+[LaTeX](https://www.latex-project.org/) is the reference software to edit scientific documents and articles.
 
 ## Setting up LaTeX
 
@@ -22,5 +23,14 @@ Unlike WYSIWYG alternatives such as Microsoft Word and LibreOffice Writer, LaTeX
 
 ## Advanced tips
 
+### Configuration and packages
+
 - A detailed collection of [LaTeX tips](https://github.com/RiMillo/LaTeX_tips) gathered by a fellow student
 - My personal LaTeX [configuration preambles](https://github.com/gdalle/LaTeX-packages)
+
+### Templates
+
+Overleaf hosts a great [collection of templates](https://www.overleaf.com/latex/templates). I found a few interesting things there, most notably:
+
+- A simple model for [conference posters](https://fr.overleaf.com/articles/decaf-poster/ryfhdpmwcnpd)
+- A nice two-column [resume](https://github.com/liantze/AltaCV)

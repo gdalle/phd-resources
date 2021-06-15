@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Humanities
+subtitles: Useful resources for literary and social sciences
 ---
 
-Here you will find resources that may be useful to students in the human and social sciences.
+## All disciplines
 
-| Website                                         | Description |
-| ----------------------------------------------- | ----------- |
-| [MOOC CNIL RGPD](https://atelier-rgpd.cnil.fr/) |             |
+| Website                                                        | Description                                                                                                                  |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [The Programming Historian](https://programminghistorian.org/) | Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows. |
 
 ## Geography
 
@@ -27,3 +28,9 @@ Here you will find resources that may be useful to students in the human and soc
 | --------------------------------------------------------- | ----------- |
 | [MATE-SHS](https://mate-shs.cnrs.fr/ressources/)          |             |
 | [Méthodo entretiens](https://dysolab.hypotheses.org/2067) |             |
+
+## Miscellaneous
+
+| Website                                         | Description                          |
+| ----------------------------------------------- | ------------------------------------ |
+| [MOOC CNIL RGPD](https://atelier-rgpd.cnil.fr/) | MOOC on data protection and the GDPR |

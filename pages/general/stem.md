@@ -1,9 +1,8 @@
 ---
 layout: page
-title: STEM
+title: S.T.E.M.
+subtitles: Useful resources for natural sciences, engineering and maths
 ---
-
-Here you will find resources that target students in Science, Technology, Engineering and Mathematics.
 
 | Website                                            | Description                                                                |
 | -------------------------------------------------- | -------------------------------------------------------------------------- |

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Admin
+title: Administrative
+subtitles: Useful contacts and guidebooks for a frictionless PhD
 ---
 
 ## General guides

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: PhD Resources
-subtitle: Not the website you deserve, but the one you need right now
+subtitle: Not the research website you deserve, but the one you need right now
 ---
 
 Do you need some help with your PhD? Here is a collection of cool resources, websites and software to get you started!
