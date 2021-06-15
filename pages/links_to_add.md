@@ -6,6 +6,7 @@ title: To-do list
 Here is a list of links I haven't had time to add yet:
 
 - <https://phdsuccess.eu/>
+- <https://www.phdtalent.fr/>
 - <https://www.findaphd.com/>
 - <https://paperswithcode.com/>
 - <https://arxiv.org/>

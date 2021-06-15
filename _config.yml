@@ -34,7 +34,7 @@ navbar-links:
     - Labs: "pages/enpc/labs"
     - Research: "pages/enpc/research"
     - Software: "pages/enpc/software"
-  Contribute: "pages/main/contribute"
+  Contribute: "pages/contribute"
 
 # --- Logo --- #
 
