@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Humanities
-subtitles: Useful resources for literary and social sciences
+subtitle: Useful resources for literary and social sciences
 ---
 
 ## All disciplines

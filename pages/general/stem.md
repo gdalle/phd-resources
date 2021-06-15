@@ -1,7 +1,7 @@
 ---
 layout: page
 title: S.T.E.M.
-subtitles: Useful resources for natural sciences, engineering and maths
+subtitle: Useful resources for natural sciences, engineering and maths
 ---
 
 | Website                                            | Description                                                                |

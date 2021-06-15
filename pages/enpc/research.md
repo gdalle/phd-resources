@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitles: Special tools for ENPC researchers
+subtitle: Special tools offered to ENPC researchers
 ---
 
 ## Tools

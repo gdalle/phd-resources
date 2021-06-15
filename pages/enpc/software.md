@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-subtitles: Things you have access to without paying for them!
+subtitle: Things you have access to without paying for them!
 ---
 
 ## Software
