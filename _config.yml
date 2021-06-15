@@ -31,8 +31,8 @@ navbar-links:
     - Zotero: "pages/tutorials/zotero"
   École des Ponts:
     - Administrative: "pages/enpc/admin"
-    - Grad schools: "pages/enpc/ed"
-    - Labs: "pages/enpc/labs"
+    - Graduate schools: "pages/enpc/ed"
+    - Laboratories: "pages/enpc/labs"
     - Research: "pages/enpc/research"
     - Software: "pages/enpc/software"
   Contribute: "pages/contribute"
