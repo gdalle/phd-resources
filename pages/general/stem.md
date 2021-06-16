@@ -21,9 +21,10 @@ subtitle: Useful resources for natural sciences, engineering and maths
 
 ### Publishing code
 
-| Website                       | Description                                                            |
-| ----------------------------- | ---------------------------------------------------------------------- |
-| [Zenodo](https://zenodo.org/) | A place to publish source code and datasets and give them a unique DOI |
+| Website                                         | Description                                                            |
+| ----------------------------------------------- | ---------------------------------------------------------------------- |
+| [Zenodo](https://zenodo.org/)                   | A place to publish source code and datasets and give them a unique DOI |
+| [Choose a license](https://choosealicense.com/) | Choose the right open source license for you                           |
 
 ### Getting help
 
