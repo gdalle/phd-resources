@@ -22,3 +22,4 @@ Here is a list of links I haven't had time to add yet:
 - <https://www.fage.org/innovation-sociale/solidarite-etudiante/agorae-fage/>
 - <https://wearephenix.com/application-anti-gaspi/>
 - <https://www.facebook.com/Banquealimentaire/>
+- <https://latex.codecogs.com/eqneditor/editor.php>
