@@ -35,3 +35,4 @@ subtitle: Useful contacts and guidebooks for a frictionless PhD
 | --------------------------------------------------------------------- | ----------------------------------------- |
 | [Redoc Paris-Est](https://redocparisest.wordpress.com/)               | Network of Paris-Est PhDs                 |
 | [Associations UPE](https://www.paris-est-sup.fr/campus/associations/) | A list of associations on the ENPC campus |
+| [ASCP](http://www.ascp-ponts.fr/)                                     | Culture and sports association of ENPC    |
