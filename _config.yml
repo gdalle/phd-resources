@@ -14,7 +14,7 @@ author: Guillaume Dalle
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  General resources:
+  General:
     - Administrative: "pages/general/admin"
     - Bibliography: "pages/general/bibliography"
     - Health: "pages/general/health"
@@ -22,7 +22,7 @@ navbar-links:
     - Methods: "pages/general/methods"
     - STEM: "pages/general/stem"
     - Writing: "pages/general/writing"
-  Software tutorials:
+  Tutorials:
     - Git(Hub): "pages/tutorials/git"
     - Julia: "pages/tutorials/julia"
     - LaTeX: "pages/tutorials/latex"
