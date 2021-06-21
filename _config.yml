@@ -14,7 +14,7 @@ author: Guillaume Dalle
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  General:
+  General resources:
     - Administrative: "pages/general/admin"
     - Bibliography: "pages/general/bibliography"
     - Health: "pages/general/health"
