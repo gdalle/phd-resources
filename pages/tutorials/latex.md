@@ -34,3 +34,7 @@ Overleaf hosts a great [collection of templates](https://www.overleaf.com/latex/
 
 - A simple model for [conference posters](https://fr.overleaf.com/articles/decaf-poster/ryfhdpmwcnpd)
 - A nice two-column [resume](https://github.com/liantze/AltaCV)
+
+### WYSIWYG editors
+
+- Equation [editor](https://latex.codecogs.com/eqneditor/editor.php) with symbol insertion

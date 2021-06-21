@@ -17,10 +17,11 @@ navbar-links:
   General resources:
     - Administrative: "pages/general/admin"
     - Bibliography: "pages/general/bibliography"
+    - Career: "pages/general/career"
     - Health: "pages/general/health"
     - Humanities: "pages/general/humanities"
     - Methods: "pages/general/methods"
-    - STEM: "pages/general/stem"
+    - S.T.E.M.: "pages/general/stem"
     - Writing: "pages/general/writing"
   Tutorials:
     - Git(Hub): "pages/tutorials/git"

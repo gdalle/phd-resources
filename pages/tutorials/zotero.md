@@ -29,3 +29,8 @@ Zotero comes with a variery of community-developed [plugins](https://www.zotero.
 - [Zotero DOI Manager](https://github.com/bwiernik/zotero-shortdoi) to handle missing DOIs
 - [Word Processor Plugins](https://www.zotero.org/support/word_processor_integration) to use Zotero from Word, LibreOffice or Google Docs
 - [Better BibTex](https://retorque.re/zotero-better-bibtex/) to use Zotero from LaTeX or Markdown
+
+### To go further
+
+Other tutorials:
+- <https://zestedesavoir.com/tutoriels/2041/gerez-votre-bibliographie-avec-zotero/>

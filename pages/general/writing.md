@@ -51,7 +51,7 @@ subtitle: Improve your writing workflow and style
 
 ### Visualization
 
-| Website                                       | Description                         |
-| --------------------------------------------- | ----------------------------------- |
-| [Data to Viz](https://www.data-to-viz.com/)   | Choose the right data visualization |
-| [DataVizProject](https://datavizproject.com/) | Choose the right data visualization |
+| Website                                       | Description                                 |
+| --------------------------------------------- | ------------------------------------------- |
+| [Data to Viz](https://www.data-to-viz.com/)   | Choose the right data visualization         |
+| [DataVizProject](https://datavizproject.com/) | Choose the right data visualization (again) |

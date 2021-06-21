@@ -24,6 +24,7 @@ subtitle: Useful resources for natural sciences, engineering and maths
 | Website                                         | Description                                                            |
 | ----------------------------------------------- | ---------------------------------------------------------------------- |
 | [Zenodo](https://zenodo.org/)                   | A place to publish source code and datasets and give them a unique DOI |
+| [PapersWithCode](https://paperswithcode.com/)   | Publish papers jointly with their code                                 |
 | [Choose a license](https://choosealicense.com/) | Choose the right open source license for you                           |
 
 ### Getting help
