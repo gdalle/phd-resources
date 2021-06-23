@@ -12,6 +12,7 @@ subtitle: Collect and organize scientific documents
 | [ConnectedPapers](https://www.connectedpapers.com/) | Find related papers and explore their connections |
 | [ResearchRabbit](https://www.researchrabbit.ai/)    | Literature survey assistant                       |
 | [VosViewer](https://www.vosviewer.com/)             | Visualize bibliometric networks                   |
+| [Scite.ai](https://scite.ai/)                       | Find papers that cite a given work                |
 
 ## Preprint servers
 
