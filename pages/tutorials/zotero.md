@@ -23,14 +23,28 @@ If you use Zotero from multiple computers, or even if you just want an online ba
 
 ### Plugins
 
-Zotero comes with a variery of community-developed [plugins](https://www.zotero.org/support/plugins) which can make your workflow easier. The most useful ones in my opinion are:
+Zotero comes with a variery of community-developed [plugins](https://www.zotero.org/support/plugins) which can make your workflow easier.
 
-- [Zotfile](http://zotfile.com/) for managing attachments and extracting notes from PDF
-- [Zotero DOI Manager](https://github.com/bwiernik/zotero-shortdoi) to handle missing DOIs
+#### Text editing
+
+- [Better BibTex](https://retorque.re/zotero-better-bibtex/) is essential if you want to use Zotero in Markdown or LaTeX editing.
 - [Word Processor Plugins](https://www.zotero.org/support/word_processor_integration) to use Zotero from Word, LibreOffice or Google Docs
-- [Better BibTex](https://retorque.re/zotero-better-bibtex/) to use Zotero from LaTeX or Markdown
+- [Zotero MdNotes](https://argentinaos.com/zotero-mdnotes/) is nice if you want to edit Markdown notes outside of Zotero.
+  > TODO: setup with single-file export and templates
+
+#### Managing attachments
+
+- [Zotfile](http://zotfile.com/) for managing attachments and extracting notes from PDF files
+- [Zotero Folder Import](https://github.com/retorquere/zotero-folder-import) to transition from a folder-based file management system
+- [Zotero Storage Scanner](https://github.com/retorquere/zotero-storage-scanner) to analyze missing or broken attachments
+
+#### Automatic metadata
+
+- [Zotero DOI Manager](https://github.com/bwiernik/zotero-shortdoi) to download missing DOIs
+- [Zotero CitationCounts](https://github.com/eschnett/zotero-citationcounts) to add citation counts from various databases
 
 ### To go further
 
 Other tutorials:
+
 - <https://zestedesavoir.com/tutoriels/2041/gerez-votre-bibliographie-avec-zotero/>

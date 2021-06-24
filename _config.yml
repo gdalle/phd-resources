@@ -24,6 +24,7 @@ navbar-links:
     - S.T.E.M.: "pages/general/stem"
     - Writing: "pages/general/writing"
   Tutorials:
+    - Foam: "pages/tutorials/foam"
     - Git(Hub): "pages/tutorials/git"
     - Julia: "pages/tutorials/julia"
     - LaTeX: "pages/tutorials/latex"
