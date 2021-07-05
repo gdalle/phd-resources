@@ -14,6 +14,10 @@ subtitle: Associations, paperwork and finances
 
 ## Procedures
 
+| Website                                                          | Description                                                                       |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [MesServicesEtudiant](https://www.messervices.etudiant.gouv.fr/) | Your one official stop for campus fees (CVEC), grants, accomodation and much more |
+
 > Work in progress
 
 ## Finances
