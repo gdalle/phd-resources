@@ -48,3 +48,7 @@ Zotero comes with a variery of community-developed [plugins](https://www.zotero.
 Other tutorials:
 
 - <https://zestedesavoir.com/tutoriels/2041/gerez-votre-bibliographie-avec-zotero/>
+
+#### Tricks
+
+- To use LaTeX symbols in the fields of a paper (like the title), just add the #LaTeX tag to the Zotero item
