@@ -5,6 +5,10 @@
 
 # --- Required options --- #
 
+# Theme
+remote_theme: daattali/beautiful-jekyll@5.0.0
+# theme: beautiful-jekyll-theme
+
 # Name of website
 title: PhD Resources
 
@@ -14,7 +18,7 @@ author: Guillaume Dalle
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  General resources:
+  General stuff:
     - Administrative: "pages/general/admin"
     - Bibliography: "pages/general/bibliography"
     - Career: "pages/general/career"
@@ -28,22 +32,22 @@ navbar-links:
     - Git(Hub): "pages/tutorials/git"
     - Julia: "pages/tutorials/julia"
     - LaTeX: "pages/tutorials/latex"
+    - Markdown: "pages/tutorials/markdown"
     - Terminal: "pages/tutorials/terminal"
     - VSCode: "pages/tutorials/vscode"
     - Zotero: "pages/tutorials/zotero"
   École des Ponts:
     - Administrative: "pages/enpc/admin"
-    - Graduate schools: "pages/enpc/ed"
+    - Grad schools: "pages/enpc/ed"
     - Laboratories: "pages/enpc/labs"
     - Research: "pages/enpc/research"
     - Software: "pages/enpc/software"
-  Contribute: "pages/contribute"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/magnifying_glass.png"
+avatar: "/img/magnifying_glass.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -250,7 +254,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jemoji
+  - jekyll-remote-theme
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
