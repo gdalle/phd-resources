@@ -275,7 +275,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  beautiful-jekyll-theme (= 5.0.0)
+  beautiful-jekyll-theme
   github-pages (~> 215)
   jekyll-feed
   jekyll-remote-theme

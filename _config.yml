@@ -6,8 +6,14 @@
 # --- Required options --- #
 
 # Theme
-remote_theme: daattali/beautiful-jekyll@5.0.0
+remote_theme: daattali/beautiful-jekyll
 # theme: beautiful-jekyll-theme
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Name of website
 title: PhD Resources
@@ -251,10 +257,6 @@ exclude:
   - screenshot.png
   - docs/
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-remote-theme
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
