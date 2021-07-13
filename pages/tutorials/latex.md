@@ -26,7 +26,7 @@ To install a distribution, go to [this page](https://www.latex-project.org/get/)
   
 If you have enough disk space, download the full distribution at once, so that you don't have to install additional packages one by one when you need them.
 
-As for the editor, there are specialized LaTeX editors such as [TeXMaker](https://www.xm1math.net/texmaker/). However, I would recommend using a general-purpose IDE such as [VSCode](../tutorials/vscode.md) with the [LaTeX Workshop extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop), in order to have a single tool for all of your writing and programming needs.
+As for the editor, there are specialized LaTeX editors such as [TeXMaker](https://www.xm1math.net/texmaker/) or [TexStudio](https://www.texstudio.org/). However, I would recommend using a general-purpose IDE such as [VSCode](../tutorials/vscode.md) with the [LaTeX Workshop extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop), in order to have a single tool for all of your writing and programming needs.
 
 ## Learning LaTeX
 

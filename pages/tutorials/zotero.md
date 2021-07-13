@@ -69,9 +69,9 @@ Zotero comes with a variery of community-developed [plugins](https://www.zotero.
 
 - [Zutilo](https://github.com/wshanks/Zutilo) provides additional editing features that are missing from the main app.
 
-### Daily use
+## Daily use
 
-#### Adding items to your library
+### Adding items to your library
 
 There are several ways to add items to your library:
 
@@ -84,31 +84,31 @@ When using the first two methods, Zotero will try to find a full-text associated
 
 Be careful not to add items to your library using only the PDF, since Zotero will often fail to extract correct metadata from the full text file, especially for preprints or journals with little formatting.
 
-#### Using notes, tags and connected papers
+### Using notes, tags and connected papers
 
 > Todo
 
-#### Collections and saved searches
+### Collections and saved searches
 
 > Todo
 
-#### Export
+### Export
 
 > Todo
 
 If all you need to do is generate a bibliography without storing articles for future use, you can also try the web tool [ZoteroBib](https://zbib.org/).
 
-#### Group libraries
+### Group libraries
 
 > Todo
 
-#### Various tricks
+### Various tricks
 
 - When an item is selected, you can see the collection it appears in by pressing `Alt`.
 - A right click on the title of a reference allows you to choose the case.
 - To use LaTeX symbols in the fields of a paper (like the title), just add the #LaTeX tag to the Zotero item.
 
-### Other sources
+## Other sources
 
 Here are two tutorials in French made by PhD friends, from which I heavily drew to make this one:
 

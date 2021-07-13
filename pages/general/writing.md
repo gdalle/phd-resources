@@ -6,11 +6,12 @@ subtitle: Improve your writing workflow and style
 
 ## Software
 
-### Translation
+### Translation and spelling
 
-| Website                                   | Description                                                   |
-| ----------------------------------------- | ------------------------------------------------------------- |
-| [DeepL](https://www.deepl.com/translator) | One of the best automatic translators for scientific purposes |
+| Website                                     | Description                                                           |
+| ------------------------------------------- | --------------------------------------------------------------------- |
+| [DeepL](https://www.deepl.com/translator)   | One of the best automatic translators for scientific purposes         |
+| [LanguageTool](https://languagetool.org/fr) | A spellchecker in multiple languages with browser and Word interfaces |
 
 ### Markdown
 
