@@ -1,7 +1,7 @@
 ---
-layout: page
-title: PhD Resources
-subtitle: Not the research website you deserve, but the one you need right now
+layout: "single"
+sidebar:
+    nav: "menu"
 ---
 
 Do you need some help with your PhD? Here is a collection of cool resources, websites and software to get you started.
@@ -13,4 +13,4 @@ If you have broad questions about doctoral studies, you may want to start with t
 | [Le Guide du Doctorat](https://guide-doctorat.fr/) | A very extensive guide to doctoral studies              |
 | [FAQ CJC](https://cjc.jeunes-chercheurs.org/faq/)  | The FAQ section of an association for young researchers |
 
-This is meant to be a collaborative endeavor, so if you have things to add, you're more than welcome to [contribute](pages/contribute)!
+This is meant to be a collaborative endeavor, so if you have things to add, you're more than welcome to [contribute](_pages/contribute)!
