@@ -2,6 +2,8 @@
 permalink: /general/humanities/
 title: Humanities
 subtitle: Useful resources for literary and social sciences
+sidebar:
+    nav: "general"
 ---
 
 ## All disciplines

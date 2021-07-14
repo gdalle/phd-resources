@@ -2,6 +2,8 @@
 permalink: /general/health/
 title: Health
 subtitle: Take care of your health, it is way more important than your PhD
+sidebar:
+    nav: "general"
 ---
 
 ## Mental health

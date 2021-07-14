@@ -1,7 +1,8 @@
 ---
 layout: "single"
 sidebar:
-    nav: "menu"
+    nav: "fullmenu"
+toc: false
 ---
 
 Do you need some help with your PhD? Here is a collection of cool resources, websites and software to get you started.

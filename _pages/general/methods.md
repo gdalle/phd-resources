@@ -2,6 +2,8 @@
 permalink: /general/methods/
 title: Methods
 subtitle: Best practices for researchers
+sidebar:
+    nav: "general"
 ---
 
 ## Workflow

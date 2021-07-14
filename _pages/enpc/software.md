@@ -2,6 +2,8 @@
 permalink: /enpc/software/
 title: Software
 subtitle: Things you have access to without paying for them!
+sidebar:
+    nav: "enpc"
 ---
 
 ## Software

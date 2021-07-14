@@ -2,6 +2,8 @@
 permalink: /enpc/admin/
 title: Administrative
 subtitle: Useful contacts and guidebooks for a frictionless PhD
+sidebar:
+    nav: "enpc"
 ---
 
 ## General guides

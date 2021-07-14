@@ -2,6 +2,8 @@
 permalink: /general/career/
 title: Career
 subtitle: A PhD is a first job, trat it as such!
+sidebar:
+    nav: "general"
 ---
 
 ## Before the PhD

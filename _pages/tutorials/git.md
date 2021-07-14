@@ -2,6 +2,8 @@
 permalink: /tutorials/git/
 title: Git(Hub)
 subtitle: I'm up all night to Git lucky
+sidebar:
+    nav: "tutorials"
 ---
 
 > Work in progress

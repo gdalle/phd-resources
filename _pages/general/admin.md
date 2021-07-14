@@ -2,6 +2,8 @@
 permalink: /general/admin/
 title: Administrative
 subtitle: Associations, paperwork and finances
+sidebar:
+    nav: "general"
 ---
 
 ## Associations

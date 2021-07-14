@@ -2,6 +2,8 @@
 permalink: /enpc/gradschools/
 title: Graduate schools
 subtitle: Resources specific to each "école doctorale"
+sidebar:
+    nav: "enpc"
 ---
 
 | Website                                                                                                                  | Description                                                                      |

@@ -2,6 +2,8 @@
 permalink: /enpc/research/
 title: Research
 subtitle: Special tools offered to ENPC researchers
+sidebar:
+    nav: "enpc"
 ---
 
 ## Tools

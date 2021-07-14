@@ -2,6 +2,8 @@
 permalink: /general/stem/
 title: S.T.E.M.
 subtitle: Useful resources for natural sciences, engineering and maths
+sidebar:
+    nav: "general"
 ---
 
 | Website                                            | Description                                                                |

@@ -83,7 +83,13 @@ defaults:
       layout: single
       toc: true
       sidebar:
-        nav: "menu"
+        nav: "fullmenu"
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
 
 
 # Exclude from processing.

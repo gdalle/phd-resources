@@ -2,6 +2,8 @@
 permalink: /general/bibliography/
 title: Bibliography
 subtitle: Collect and organize scientific documents
+sidebar:
+    nav: "general"
 ---
 
 ## Finding papers

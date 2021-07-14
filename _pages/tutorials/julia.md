@@ -2,6 +2,8 @@
 permalink: /tutorials/julia/
 title: Julia
 subtitle: Faster than Python, cooler than C
+sidebar:
+    nav: "tutorials"
 ---
 
 ## The basics

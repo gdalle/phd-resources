@@ -3,6 +3,9 @@ permalink: /contribute/
 title: Contribute
 subtitle: Is something missing on this site? Tell me about it!
 comments: true
+sidebar:
+    nav: "fullmenu"
+toc: false
 ---
 
 {: .box-note}

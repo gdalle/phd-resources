@@ -2,6 +2,8 @@
 permalink: /tutorials/latex/
 title: LaTeX
 subtitle: It's pronounced "la-tek"
+sidebar:
+    nav: "tutorials"
 ---
 
 [LaTeX](https://www.latex-project.org/) is the reference software to edit scientific documents and articles.

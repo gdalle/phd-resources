@@ -2,6 +2,8 @@
 permalink: /tutorials/zotero/
 title: Zotero
 subtitle: Like a library, but tidier
+sidebar:
+    nav: "tutorials"
 ---
 
 As a researcher, once you reach a certain number of articles and books, simply storing them as PDF files in nested folders is no longer enough. [Zotero](https://www.zotero.org/) is a bibliography manager that lets you easily organize and exploit your academic sources.

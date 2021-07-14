@@ -2,6 +2,8 @@
 permalink: /general/writing/
 title: Writing
 subtitle: Improve your writing workflow and style
+sidebar:
+    nav: "general"
 ---
 
 ## Software
