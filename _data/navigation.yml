@@ -39,6 +39,8 @@ tutorials:
         url: /tutorials/latex/
       - title: "Markdown"
         url: /tutorials/markdown/
+      - title: "Python"
+        url: /tutorials/python/
       - title: "Terminal"
         url: /tutorials/terminal/
       - title: "VSCode"
@@ -92,6 +94,8 @@ fullmenu:
         url: /tutorials/latex/
       - title: "Markdown"
         url: /tutorials/markdown/
+      - title: "Python"
+        url: /tutorials/python/
       - title: "Terminal"
         url: /tutorials/terminal/
       - title: "VSCode"

@@ -12,6 +12,6 @@ sidebar:
 
 See [the Foam documentation](https://foambubble.github.io/foam/) for installation instructions and first steps.
 
-## Getting it to work with Zotero and MdNotes
+## Working with Zotero and MdNotes
 
 > Todo

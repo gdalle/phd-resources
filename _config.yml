@@ -56,7 +56,7 @@ name: Guillaume Dalle
 author:
   name     : "PhD Resources"
   avatar   : "/img/magnifying_glass.png"
-  bio      : "Not the research website you deserve, but the one you need right now."
+  bio      : "Not the research toolbox you deserve, but the one you need right now."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

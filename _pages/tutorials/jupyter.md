@@ -1,3 +1,10 @@
+---
+permalink: /tutorials/jupyter/
+title: Jupyter
+sidebar:
+    nav: "tutorials"
+---
+
 # Jupyter
 
 Jupyter is an environment for easy prototyping and display of Julia, Python and R code.

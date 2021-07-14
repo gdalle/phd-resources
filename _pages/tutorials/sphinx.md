@@ -1,3 +1,10 @@
+---
+permalink: /tutorials/sphinx/
+title: Sphinx
+sidebar:
+    nav: "tutorials"
+---
+
 # Sphinx
 
 Sphinx is an automatic documentation generator for Python projects.
