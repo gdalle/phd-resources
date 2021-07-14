@@ -5,8 +5,6 @@ main:
     url: /tutorials/
   - title: "École des Ponts"
     url: /enpc/
-  - title: "Contribute"
-    url: /contribute/
 
 general:
   - title: "General stuff"

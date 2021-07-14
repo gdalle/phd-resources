@@ -51,6 +51,17 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+name: Guillaume Dalle
+
+author:
+  name     : "PhD Resources"
+  avatar   : "/img/magnifying_glass.png"
+  bio      : "Not the research website you deserve, but the one you need right now."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/gdalle/phd-resources/"
+
 footer:
   links:
     - label: "GitHub"
@@ -82,8 +93,6 @@ defaults:
     values:
       layout: single
       toc: true
-      sidebar:
-        nav: "fullmenu"
 
 comments:
   provider: "utterances"
