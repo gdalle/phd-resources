@@ -14,6 +14,8 @@ sidebar:
 - [VosViewer](https://www.vosviewer.com/) : Visualize bibliometric networks
 - [Scite.ai](https://scite.ai/) : Find papers that cite a given work
 
+> Please note that I do not recommend to go look for papers and books on [SciHub](https://en.wikipedia.org/wiki/Sci-Hub), [LibGen](https://en.wikipedia.org/wiki/Library_Genesis) or [Z-Library](https://en.wikipedia.org/wiki/Z-Library). You run the risk of finding exactly what you are looking for.
+
 ## Preprint servers
 
 - [Arxiv](https://arxiv.org/) : Open access archive for preprints in physics, maths, computer science, economics, etc.

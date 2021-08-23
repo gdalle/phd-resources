@@ -23,11 +23,6 @@ sidebar:
 - [LaTeX](https://www.latex-project.org/): The reference tool for scientific and mathematical writing ([tutorial](../../tutorials/latex/))
 - [Overleaf](https://www.overleaf.com/) : Online LaTeX editor
 
-### Handwriting
-
-- [Google Jamboard](https://jamboard.google.com/): Collaborate in real time on a virtual white board
-- [Xournal++](https://xournalpp.github.io/) : Software for graphical tablets
-
 ## General tips
 
 - [OpenAcademic](https://www.oacommunity.org/resources) : Various resources and templates related to academic writing

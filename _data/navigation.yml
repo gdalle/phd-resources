@@ -21,8 +21,12 @@ general:
         url: /general/humanities/
       - title: "Methods"
         url: /general/methods/
+      - title: "Networking"
+        url: /general/networking/
       - title: "STEM"
         url: /general/stem/
+      - title: "Teaching"
+        url: /general/teaching/
       - title: "Writing"
         url: /general/writing/
 

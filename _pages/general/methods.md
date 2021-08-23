@@ -8,12 +8,9 @@ sidebar:
 
 ## Workflow
 
-### Blogs containing lots of resources
+### Time management
 
-- [Scriptoria](https://www.scriptoria.org/fr/): The blog of a philosophy PhD, currently working as PhD coach
-- [What Sup](https://what-sup.net/): The blog of a history PhD
-- [BienDansMaThèse](https://www.biendansmathese.com/): The website of a PhD student in Materials Science
-- [Jefaisunethese.com](https://jefaisunethese.com/): The blog of a PhD in Education science
+- [Hours](https://hours.zone/): A website to help you focus during pre-defined periods of time, alone or with friends
 
 ### Project management
 
@@ -38,3 +35,10 @@ sidebar:
 - [Framasoft](https://framasoft.org/en/) : A non-profit providing lots of ethical digital tools
 - [switching.software](https://switching.software/): Find free and open-source alternatives to generalstream software options
 - [Digital Scholar](https://digitalscholar.org/) : The developers of Zotero, but not only
+
+## Blogs
+
+- [Scriptoria](https://www.scriptoria.org/fr/): The blog of a philosophy PhD, currently working as PhD coach
+- [What Sup](https://what-sup.net/): The blog of a history PhD
+- [BienDansMaThèse](https://www.biendansmathese.com/): The website of a PhD student in Materials Science
+- [Jefaisunethese.com](https://jefaisunethese.com/): The blog of a PhD in Education science
