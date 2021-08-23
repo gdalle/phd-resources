@@ -25,7 +25,8 @@ sidebar:
 ## Storing your sources
 
 - [Zotero](https://www.zotero.org/): Bibliography management software ([tutorial](../../tutorials/zotero))
-- [Tropy](https://tropy.org/) : Zotero for pictures
+- [Tropy](https://tropy.org/): Zotero for pictures
+- [AnyStyle](https://anystyle.io/): Retrieve a clean bibliography from a list of citations in any style
 
 ## Miscellaneous
 
