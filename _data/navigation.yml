@@ -111,11 +111,9 @@ fullmenu:
     children:
       - title: "Administrative"
         url: /enpc/admin/
+      - title: "Digital tools"
+        url: /enpc/digital/
       - title: "Graduate schools"
         url: /enpc/gradschools/
       - title: "Laboratories"
         url: /enpc/labs/
-      - title: "Research"
-        url: /enpc/research/
-      - title: "Software"
-        url: /enpc/software/
