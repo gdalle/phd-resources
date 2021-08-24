@@ -9,7 +9,7 @@ sidebar:
 ## All disciplines
 
 - [The Programming Historian](https://programminghistorian.org/): Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows
-- [MOOC CNIL RGPD](https://atelier-rgpd.cnil.fr/) | MOOC on data protection and the GDPR |
+- [MOOC CNIL RGPD](https://atelier-rgpd.cnil.fr/): MOOC on data protection and the GDPR.
 
 ## Geography
 
