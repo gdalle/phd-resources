@@ -64,6 +64,9 @@ author:
 
 footer:
   links:
+    - label: "Website"
+      icon: "fas fa-globe"
+      url: "https://gdalle.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gdalle"
