@@ -33,20 +33,20 @@ general:
 tutorials:
   - title: "Tutorials"
     children:
-      - title: "Foam"
-        url: /tutorials/foam/
+      # - title: "Foam"
+      #   url: /tutorials/foam/
       - title: "Git"
         url: /tutorials/git/
       - title: "Julia"
         url: /tutorials/julia/
       - title: "LaTeX"
         url: /tutorials/latex/
-      - title: "Markdown"
-        url: /tutorials/markdown/
+      # - title: "Markdown"
+      #   url: /tutorials/markdown/
       - title: "Python"
         url: /tutorials/python/
-      - title: "Terminal"
-        url: /tutorials/terminal/
+      # - title: "Terminal"
+      #   url: /tutorials/terminal/
       - title: "VSCode"
         url: /tutorials/vscode/
       - title: "Zotero"
