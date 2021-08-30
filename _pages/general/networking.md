@@ -13,5 +13,5 @@ sidebar:
 
 ## Building a website
 
-- Some templates using GitHub + Jekyll for free hosting and easy customization: [academicpages](https://academicpages.github.io/), [BeautifulJekyll](https://beautifuljekyll.com/)
+- [academicpages](https://academicpages.github.io/) and [BeautifulJekyll](https://beautifuljekyll.com/): templates using GitHub + Jekyll for free hosting and easy customization
 - [Wordpress](https://wordpress.com/)

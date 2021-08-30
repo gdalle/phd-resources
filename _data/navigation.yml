@@ -13,6 +13,8 @@ general:
         url: /general/admin/
       - title: "Bibliography"
         url: /general/bibliography/
+      - title: "Blogs"
+        url: /general/blogs/
       - title: "Career"
         url: /general/career/
       - title: "Health"

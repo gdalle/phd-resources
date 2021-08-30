@@ -9,6 +9,7 @@ sidebar:
 
 - [Wooclap](https://www.wooclap.com): A (premium) software for live quizzes during class
 - [Poll Everywhere](https://pollev.com/home): A free substitute for Wooclap
+- [Icebreaker 🇫🇷](https://ethigame.fr/2021/04/23/le-generateur-dicebreaker/): Icebreaker generator
 
 ### Handwriting
 

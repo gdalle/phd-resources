@@ -27,13 +27,13 @@ sidebar:
 
 - [OpenAcademic](https://www.oacommunity.org/resources) : Various resources and templates related to academic writing
 - [ThesisWhisperer](https://sites.google.com/site/twblacklinemasters/home?authuser=0): One-page tools and workshops for writing
-- [Assieds-toi et écris ta thèse](https://www.youtube.com/watch?v=qbQ02vJkXQw) : An hour-long video containing tips for thesis writing
+- [Assieds-toi et écris ta thèse 🇫🇷](https://www.youtube.com/watch?v=qbQ02vJkXQw) : An hour-long video containing tips for thesis writing
 
 ### Style
 
 - [Academic phrasebank](https://www.phrasebank.manchester.ac.uk/) : Bank of expressions to improve scientific writing
 - [Thesaurus](https://www.thesaurus.com/) : Extend your vocabulary with synonyms and antonyms
-- [Trouver un titre](https://reussirsathese.com/trouver-un-titre-a-sa-these): How to find the right title for your thesis
+- [Trouver un titre 🇫🇷](https://reussirsathese.com/trouver-un-titre-a-sa-these): How to find the right title for your thesis
 
 ### Visualization
 
