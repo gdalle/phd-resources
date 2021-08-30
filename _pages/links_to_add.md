@@ -10,8 +10,6 @@ Tutorials:
 - Google Scholar
 - GitHub
 - Obsidian?
-
-Methodology:
 - Méta-liste de sites similaires
 - Bonnes pratiques de dev
 - SHS quali : créer une grille, conduite d'entretien, retranscriptions et analyse
@@ -38,8 +36,5 @@ Methodology:
 - Réseautage
 - Que faire si on se sent isolé
 - Syndrôme de l'imposteur
-
-Tools:
 - Inkscape
 - Tikz
-- FunMOOC, Coursera, OpenClassrooms
