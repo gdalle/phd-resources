@@ -11,6 +11,10 @@ sidebar:
 - [The Programming Historian](https://programminghistorian.org/): Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows
 - 🇫🇷 [MOOC CNIL RGPD](https://atelier-rgpd.cnil.fr/): MOOC on data protection and the GDPR.
 
+## Data analysis
+
+- [Nvivo](https://ritme.com/software/nvivo/): Software for qualitative data analysis
+
 ## Geography
 
 - 🇫🇷 [La cartographie : rendre visible l'invisible](https://zestedesavoir.com/tutoriels/1298/la-cartographie-rendre-visible-linvisible/)

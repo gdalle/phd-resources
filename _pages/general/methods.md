@@ -11,6 +11,8 @@ sidebar:
 ### Time management
 
 - [Hours](https://hours.zone/): A website to help you focus during pre-defined periods of time, alone or with friends
+- [Forest](https://www.forestapp.cc/): An app to stay focused and grow trees in the process!
+- [ColdTurkey](https://getcoldturkey.com/): Block everything you don't need to increase productivity
 
 ### Project management
 

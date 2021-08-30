@@ -16,6 +16,10 @@ sidebar:
 - [Nightline](https://www.nightline.fr/) : Psychological resources and listing service manned by volunteers
 - 🇫🇷 [Centres psychotrauma](http://cn2r.fr/obtenir-de-laide-pour-soi-ou-pour-un-proche/): Psychological help centers for victims of trauma
 
+### Relaxation
+
+- [PetitBambou](https://www.petitbambou.com/): A meditation app with some free content
+
 ### Remote working
 
 - 🇫🇷 [Télétravail en mode Covid](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/teletravail-en-mode-covid-19-on-vous-guide): Government advice and resources, including legal aspects, for home workers

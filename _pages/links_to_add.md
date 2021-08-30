@@ -6,8 +6,10 @@ toc: false
 
 Here is a list of things I haven't had time to add yet:
 
-Links:
-- <https://phdsuccess.eu/>
+Tutorials:
+- Google Scholar
+- GitHub
+- Obsidian?
 
 Methodology:
 - Méta-liste de sites similaires
@@ -38,23 +40,6 @@ Methodology:
 - Syndrôme de l'imposteur
 
 Tools:
-- Markdown
-- Comparaison langages
-- Applis concentration (forest)
-- Alerte Google Scholar
-- Scrivener
-- Cold Turkey Writer
-- Antidote / DeepL
-- Zettlr
-- LibreOffice
 - Inkscape
-- Powerpoint
-- Beamer
 - Tikz
-- Draw.io
-- Posters
 - FunMOOC, Coursera, OpenClassrooms
-- ResearchGate
-- Twitter
-- LinkedIn
-- Nvivo
