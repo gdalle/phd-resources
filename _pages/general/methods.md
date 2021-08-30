@@ -27,8 +27,8 @@ sidebar:
 ### Reproducible research
 
 - [The Turing way](https://the-turing-way.netlify.app/welcome): A guide to ethical, reproducible and collaborative data science
-- [Reproducible research MOOC 🇫🇷](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/): A MOOC by Inria on reproducible research
-- [Vers une recherche reproductible 🇫🇷](https://rr-france.github.io/bookrr/): A French e-book on reproducible research
+- 🇫🇷 [Reproducible research MOOC](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/): A MOOC by Inria on reproducible research
+- 🇫🇷 [Vers une recherche reproductible ](https://rr-france.github.io/bookrr/): A French e-book on reproducible research
 
 ## Open source and free software
 
