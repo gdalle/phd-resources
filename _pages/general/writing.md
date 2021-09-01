@@ -11,6 +11,7 @@ sidebar:
 ### Office
 
 - [LibreOffice](https://www.libreoffice.org/): The open source alternative to Microsoft Office (Word, Excel, PowerPoint)
+- [Office 365](https://www.microsoft.com/en-us/education/products/office): The online version of Microsoft Office offers free licenses for students and teachers
 
 ### Markdown
 
