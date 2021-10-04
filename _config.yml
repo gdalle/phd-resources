@@ -55,7 +55,7 @@ name: Guillaume Dalle
 
 author:
   name     : "PhD Resources"
-  avatar   : "/assets/magnifying_glass.png"
+  avatar   : "/_assets/magnifying_glass.png"
   bio      : "Not the research toolbox you deserve, but the one you need right now."
   links:
     - label: "GitHub"
