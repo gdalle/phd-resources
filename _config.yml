@@ -42,7 +42,7 @@ twitter_username: giomdal
 atom_feed:
   hide: true
 
-include: ["_pages"]
+include: ["_pages", "_assets"]
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
