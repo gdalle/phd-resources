@@ -24,6 +24,8 @@ sidebar:
 - 🇫🇷 [LeBonCoin](https://www.leboncoin.fr/): Find a flat to rent from private owners or agencies
 - 🇫🇷 [LocService](https://www.locservice.fr/): Put up your profile and let flat owners contact you
 - 🇫🇷 [PAP](https://www.pap.fr/): Find a flat to rent from private owners
+- 🇫🇷 [Jinka](https://www.jinka.fr/): An app aggregating rental offers
+- 🇫🇷 [Le Pari Solidaire](https://www.leparisolidaire.fr/): An association offering co-living arrangements with elderly people
 - 🇫🇷 [Visale](https://www.visale.fr/): Get a rental guarantor to reassure landlords
 - 🇫🇷 [DossierFacile](https://www.dossierfacile.fr/): Store and share your tenancy application documents with an official seal of approval
 
