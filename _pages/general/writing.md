@@ -1,7 +1,6 @@
 ---
 permalink: /general/writing/
 title: Writing
-subtitle: Improve your writing workflow and style
 sidebar:
   nav: "general"
 ---
@@ -17,6 +16,8 @@ sidebar:
 
 - [Markdown guide](https://www.markdownguide.org/) : A step-by-step guide to everything you can do with Markdown
 - [Pandoc](https://pandoc.org/) : Universal text file converter, works very well with Markdown
+- [Obsidian](https://obsidian.md/) : Organize and connect references and notes using Markdown, following the Zettelkasten method
+- [Zettlr](https://www.zettlr.com/) : An alternative to Obsidian
 
 ### LaTeX
 
@@ -29,6 +30,11 @@ sidebar:
 - [DeepL](https://www.deepl.com/translator) : One of the best automatic translators for scientific purposes
 - [LanguageTool](https://languagetool.org/): A spellchecker in multiple languages with browser and Word interfaces
 - [Antidote](https://www.antidote.info/en): Writing assistance software for English and French
+
+### Handwriting
+
+- [Google Jamboard](https://jamboard.google.com/): Collaborate in real time on a virtual white board
+- [Xournal++](https://xournalpp.github.io/) : Software for graphical tablets
 
 ### Misc
 
@@ -47,6 +53,7 @@ sidebar:
 ### Visualization
 
 - [diagrams.net](https://app.diagrams.net/): Draw simple diagrams online
+- [Inkscape](https://inkscape.org/): Professional software for generating vector graphics
 - [Data to Viz](https://www.data-to-viz.com/) : Choose the right data visualization
 - [DataVizProject](https://datavizproject.com/): Choose the right data visualization (again)
 

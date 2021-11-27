@@ -1,7 +1,6 @@
 ---
 permalink: /general/admin/
 title: Administrative
-subtitle: Associations, paperwork and finances
 sidebar:
   nav: "general"
 ---
@@ -11,6 +10,7 @@ sidebar:
 - 🇫🇷 [ANDès](https://andes.asso.fr/): Association Nationale des Docteurs
 - 🇫🇷 [CJC](https://cjc.jeunes-chercheurs.org/): Confédération des Jeunes Chercheurs
 - 🇫🇷 [ABG](https://www.abg.asso.fr/fr/): Association Bernard Grégory
+- 🇫🇷 [CLASCHES](https://clasches.fr/): Association fighting against sexual harassment in higher education
 
 ## Government websites
 
@@ -32,7 +32,7 @@ sidebar:
 ## IT equipment
 
 - [BackMarket](https://www.backmarket.fr/): Buy refurbished computer equipment at a fraction of the price
-- [OnTheHub](https://onthehub.com/) ([university login](https://groupelogiciel.onthehub.com/)): Software licenses at a discount for students
+- [OnTheHub](https://onthehub.com/) ([university login](https://groupelogiciel.onthehub.com/)): Discounted software licenses for students
 
 ## Meals
 
@@ -41,4 +41,3 @@ sidebar:
 - 🇫🇷 [Food banks](https://www.banquealimentaire.org/): Distribution of free food collected from individual donators
 - 🇫🇷 [Food distribution points](https://www.francetvinfo.fr/sante/maladie/coronavirus/generation2021-precarite-etudiante-consultez-la-liste-des-points-de-distribution-alimentaire-dans-notre-carte_4326113.html): A list of places where students can go to pick up free food
 - 🇫🇷 [AGORAé](https://www.fage.org/innovation-sociale/solidarite-etudiante/agorae-fage/): Solidary food shops accessible on social criteria
-- 🇫🇷 [1repas1euro](https://twitter.com/1repas1euro): Twitter feed with lots of easy and cheap recipes

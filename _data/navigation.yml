@@ -35,8 +35,6 @@ general:
 tutorials:
   - title: "Tutorials"
     children:
-      # - title: "Foam"
-      #   url: /tutorials/foam/
       - title: "Git"
         url: /tutorials/git/
       - title: "Julia"

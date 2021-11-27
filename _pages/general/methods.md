@@ -1,7 +1,6 @@
 ---
 permalink: /general/methods/
 title: Methods
-subtitle: Best practices for researchers
 sidebar:
   nav: "general"
 ---
@@ -20,11 +19,9 @@ sidebar:
 - [Notion](https://www.notion.so/) : An all-in-one workspace for professional teams
 - [Slack](https://slack.com/intl/fr-fr): A nice software to interact with your colleagues on various subjects
 
-### Zettelkasten
+### Note taking
 
-- [Zettelkasten](https://zettelkasten.de/introduction/): An introduction to the Zettelkasten method
-- [Obsidian](https://obsidian.md/) : Organize and connect references and notes using Markdown
-- [Zettlr](https://www.zettlr.com/) : An alternative to Obsidian to implement the Zettelkasten method
+- [Zettelkasten](https://zettelkasten.de/introduction/): An introduction to the Zettelkasten method (see our page on [writing](writing/) for relevant software)
 
 ### Reproducible research
 

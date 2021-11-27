@@ -1,7 +1,6 @@
 ---
 permalink: /tutorials/git/
 title: Git(Hub)
-subtitle: I'm up all night to Git lucky
 sidebar:
     nav: "tutorials"
 ---
@@ -14,3 +13,5 @@ Roadmap:
 - collaborating with GitHub
 - websites with GitHub pages & Jekyll
 - continuous integrations with GitHub actions
+
+<!-- - [GitKraken](https://www.gitkraken.com/): Git and GitHub without the command line -->

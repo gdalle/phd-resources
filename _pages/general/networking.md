@@ -1,7 +1,6 @@
 ---
 permalink: /general/networking/
 title: Networking
-subtitle: How to grow your contact list
 sidebar:
   nav: "general"
 ---
@@ -13,5 +12,5 @@ sidebar:
 
 ## Building a website
 
-- [academicpages](https://academicpages.github.io/) and [BeautifulJekyll](https://beautifuljekyll.com/): templates using GitHub + Jekyll for free hosting and easy customization
+- [academicpages](https://academicpages.github.io/) and [BeautifulJekyll](https://beautifuljekyll.com/): templates using GitHub pages + Jekyll for free hosting and easy customization
 - [Wordpress](https://wordpress.com/)

@@ -10,4 +10,4 @@ Do you need some help with your PhD? Here is a collection of cool resources, web
 
 This is meant to be a collaborative endeavor, so if you have things to add, you're more than welcome to contribute by <a href="mailto:guillaume.dalle@enpc.fr?subject=contributing to PhD Resources">sending me an email</a>.
 
-> Warning: I have not tested all of these websites / softwares myself, so be sure to check if they are safe and up-to-date before using them.
+> Warning: I have not tested all of these tools myself, so be sure to check if they are safe and up-to-date before using them.

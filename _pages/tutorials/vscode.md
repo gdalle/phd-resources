@@ -15,8 +15,7 @@ As a researcher, especially in scientific fields, you are likely to need several
 - LaTeX, Markdown and PDF files for scientific writing
 - Julia and Python files for programming
 - JSON and CSV files for data analysis
-- HTML files for web development
-  I also frequently have to run and debug programs, compile LaTeX documents or perform other commands like Git version control.
+- HTML files for web development I also frequently have to run and debug programs, compile LaTeX documents or perform other commands like Git version control.
 
 Of course, it is possible to use dedicated software for each kind of file, but it becomes tiresome after a while. Having a unique interface is not only pleasant, but it allows you to get comfortable with a single set of shortcuts, reflexes and workflows regardless of what you work on.
 
@@ -32,7 +31,7 @@ Other well-known alternatives include [Atom](https://atom.io/) and [SublimeText]
 
 To download VSCode, go to the [download page](https://code.visualstudio.com/Download) and select the version corresponding to your OS. When you launch it for the first time, be sure to synchronize your settings with your GitHub account, so you can recreate the same environment on multiple computers.
 
-To download Codium, do the same from this [download page](https://github.com/VSCodium/vscodium/releases). Usually you will need to retrieve `VSCodiumSetup-x64-?.??.?.exe` on Windows, `VSCodium.x64.?.??.?.dmg` on OSX and `codium_?.??.?-??????????_amd64.deb`.
+To download Codium, do the same from this [download page](https://github.com/VSCodium/vscodium/releases).
 
 From this point onwards, it doesn't matter which one you chose.
 
@@ -40,18 +39,18 @@ From this point onwards, it doesn't matter which one you chose.
 
 The success of VSCode is partly due to a great catalogue of extensions. For every programming language, there is usually one VSCode extension that does everything you need. Here is a list of the ones I use.
 
-| Function     | Useful extensions                                                                                                                                                                                                                                                                                               |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Git          | [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens), [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)                                                                                                                                      |
-| Julia        | [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia), [Julia Formatter](https://marketplace.visualstudio.com/items?itemName=singularitti.vscode-julia-formatter), [Julia Color Themes](https://marketplace.visualstudio.com/items?itemName=cameronbieganek.julia-color-themes) |
-| Jupyter      | [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)                                                                                                                                                                                                                               |
-| LaTeX        | [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop), [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)                                                                                                                                 |
-| Markdown     | [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one), [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)                                                                                     |
-| Python       | [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)                                                                                                                                                                                                                                  |
-| R            | [R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r)                                                                                                                                                                                                                                             |
-| Zettelkasten | [Foam](https://foambubble.github.io/foam/)                                                                                                                                                                                                                                                                      |
-| Zotero       | [Citation Picker for Zotero](https://marketplace.visualstudio.com/items?itemName=mblode.zotero)                                                                                                                                                                                                                 |
-| Esthetics    | [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)                                                                                                                                                                                                     |
+| Function | Useful extensions |
+| --- | --- |
+| Git | [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens), [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) |
+| Julia | [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia), [Julia Formatter](https://marketplace.visualstudio.com/items?itemName=singularitti.vscode-julia-formatter), [Julia Color Themes](https://marketplace.visualstudio.com/items?itemName=cameronbieganek.julia-color-themes) |
+| Jupyter | [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) |
+| LaTeX | [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop), [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) |
+| Markdown | [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one), [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) |
+| Python | [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) |
+| R | [R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) |
+| Zettelkasten | [Foam](https://foambubble.github.io/foam/) |
+| Zotero | [Citation Picker for Zotero](https://marketplace.visualstudio.com/items?itemName=mblode.zotero) |
+| Esthetics | [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) |
 
 ## Using VSCode
 

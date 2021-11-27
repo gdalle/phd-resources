@@ -1,7 +1,6 @@
 ---
 permalink: /tutorials/latex/
 title: LaTeX
-subtitle: It's pronounced "la-tek"
 sidebar:
     nav: "tutorials"
 ---
@@ -51,4 +50,4 @@ Overleaf hosts a great [collection of templates](https://www.overleaf.com/latex/
 ### WYSIWYG editors
 
 - Equation [editor](https://latex.codecogs.com/eqneditor/editor.php) with symbol insertion
-- Tikz drawing [editor](http://latexdraw.sourceforge.net/) to easily construct graphics you can embed in a LaTeX document
+- Drawing [editor](http://latexdraw.sourceforge.net/) to easily construct [Tikz](https://www.overleaf.com/learn/latex/TikZ_package) graphics you can embed in a LaTeX document

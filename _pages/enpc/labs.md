@@ -1,7 +1,6 @@
 ---
 permalink: /enpc/labs/
 title: Laboratories
-subtitle: Resources specific to each lab
 sidebar:
   nav: "enpc"
 ---

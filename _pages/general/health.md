@@ -1,7 +1,6 @@
 ---
 permalink: /general/health/
 title: Health
-subtitle: Take care of your health, it is way more important than your PhD
 sidebar:
   nav: "general"
 ---
@@ -24,8 +23,6 @@ sidebar:
 
 - 🇫🇷 [Télétravail en mode Covid](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/teletravail-en-mode-covid-19-on-vous-guide): Government advice and resources, including legal aspects, for home workers
 
-## Conflicts
+## Physical health
 
-### Workplace harassment
-
-- 🇫🇷 [CLASCHES](https://clasches.fr/): Association fighting against sexual harassment in higher education
+> Work in progress

@@ -5,6 +5,9 @@ sidebar:
     nav: "tutorials"
 ---
 
+- [Jupyter](https://jupyter.org/) : A notebook server for reproducible science reports
+- [Anaconda](https://www.anaconda.com/) / [Miniconda](https://docs.conda.io/en/latest/miniconda.html) : The best way to install Python and R
+
 ## Installation
 
 Python is best installed and used with a package manager called Conda. You can download a minimal version [here](https://docs.conda.io/en/latest/miniconda.html).
