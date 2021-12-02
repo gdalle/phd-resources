@@ -7,6 +7,8 @@ sidebar:
 
 ## Mental health
 
+- 🇫🇷 [Psycom](https://www.psycom.org/): General information on mental health resources
+
 ### Psychological support
 
 - [Soutien étudiant](https://www.soutien-etudiant.info/) : List of places where students can find psychological help
