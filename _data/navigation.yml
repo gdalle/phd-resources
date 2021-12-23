@@ -41,18 +41,64 @@ tutorials:
         url: /tutorials/julia/
       - title: "LaTeX"
         url: /tutorials/latex/
-      # - title: "Markdown"
-      #   url: /tutorials/markdown/
       - title: "Python"
         url: /tutorials/python/
-      # - title: "Terminal"
-      #   url: /tutorials/terminal/
       - title: "VSCode"
         url: /tutorials/vscode/
       - title: "Zotero"
         url: /tutorials/zotero/
 
 enpc:
+  - title: "École des Ponts"
+    children:
+      - title: "Administrative"
+        url: /enpc/admin/
+      - title: "Digital tools"
+        url: /enpc/digital/
+      - title: "Graduate schools"
+        url: /enpc/gradschools/
+      - title: "Laboratories"
+        url: /enpc/labs/
+
+full:
+  - title: "General stuff"
+    children:
+      - title: "Administrative"
+        url: /general/admin/
+      - title: "Bibliography"
+        url: /general/bibliography/
+      - title: "Blogs"
+        url: /general/blogs/
+      - title: "Career"
+        url: /general/career/
+      - title: "Health"
+        url: /general/health/
+      - title: "Humanities"
+        url: /general/humanities/
+      - title: "Methods"
+        url: /general/methods/
+      - title: "Networking"
+        url: /general/networking/
+      - title: "STEM"
+        url: /general/stem/
+      - title: "Teaching"
+        url: /general/teaching/
+      - title: "Writing"
+        url: /general/writing/
+  - title: "Tutorials"
+    children:
+      - title: "Git"
+        url: /tutorials/git/
+      - title: "Julia"
+        url: /tutorials/julia/
+      - title: "LaTeX"
+        url: /tutorials/latex/
+      - title: "Python"
+        url: /tutorials/python/
+      - title: "VSCode"
+        url: /tutorials/vscode/
+      - title: "Zotero"
+        url: /tutorials/zotero/
   - title: "École des Ponts"
     children:
       - title: "Administrative"
