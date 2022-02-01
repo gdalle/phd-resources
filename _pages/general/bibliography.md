@@ -18,9 +18,10 @@ sidebar:
 
 ### Preprint servers
 
-- [Arxiv](https://arxiv.org/) : Open access archive for preprints in physics, maths, computer science, economics, etc.
-- [HAL](https://hal.archives-ouvertes.fr/) : Multi-disciplinary preprint archive used by many French universities
-- [SSRN](https://www.ssrn.com/) : Preprint repository directed mostly at social sciences and humanities, run by Elsevier
+- [Arxiv](https://arxiv.org/): Open access archive for preprints in physics, maths, computer science, economics, etc.
+- [Ar5iv](https://ar5iv.org): HTML5 versions of (most) Arxiv articles, for comfortable mobile reading
+- [HAL](https://hal.archives-ouvertes.fr/): Multi-disciplinary preprint archive used by many French universities
+- [SSRN](https://www.ssrn.com/): Preprint repository directed mostly at social sciences and humanities, run by Elsevier
 
 ### The restricted section
 

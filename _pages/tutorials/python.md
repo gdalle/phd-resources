@@ -15,7 +15,7 @@ Python is best installed and used with a scientific package manager called Conda
 
 ### Development environment
 
-My advice is to use [VSCode](../tutorials/vscode.md) along with its [Python extension](https://code.visualstudio.com/docs/languages/python). However, some people prefer coding in notebooks, in which case you will need to use [Jupyter](https://jupyter.org/), either with the classic notebook interface or with the more modern Jupyterlab IDE.
+My advice is to use [VSCode](../tutorials/vscode.md) along with its [Python extension](https://code.visualstudio.com/docs/languages/python). However, some people prefer coding in notebooks, in which case you will need to use [Jupyter](https://jupyter.org/), either with the classic notebook interface or with the more modern Jupyterlab IDE. For beginner developers, [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop) may provide an accessible all-in-one experience.
 
 ### Reproducible code
 

@@ -30,6 +30,11 @@ sidebar:
 - [Google Jamboard](https://jamboard.google.com/): Collaborate in real time on a virtual white board
 - [Xournal++](https://xournalpp.github.io/) : Software for graphical tablets
 
+### Slides
+
+- [reveal.md](https://github.com/webpro/reveal-md): Create slides easily from Markdown documents
+- [Marp](https://github.com/marp-team/marp): An alternative to reveal
+
 ### Conversion
 
 - [Pandoc](https://pandoc.org/): Universal text file converter, works very well with Markdown and LaTeX
