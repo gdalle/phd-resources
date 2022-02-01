@@ -4,6 +4,7 @@ title: General stuff
 sidebar:
   nav: "general"
 toc: false
+classes: wide
 ---
 
 In this category you will find general tips and tricks that can help PhD students from all walks of life.

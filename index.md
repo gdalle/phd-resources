@@ -4,6 +4,7 @@ author_profile: false
 sidebar:
     nav: "full"
 toc: false
+classes: wide
 ---
 
 Do you need some help with your research? Here is a collection of cool resources, websites and software to get you started. Some of them are in French or specific to students in France (I try to mark them with a 🇫🇷 emoji), but the majority can be useful to anyone, including students at many different levels, early-career researchers or scientists in other institutions.

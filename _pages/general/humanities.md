@@ -1,8 +1,6 @@
 ---
 permalink: /general/humanities/
 title: Humanities
-sidebar:
-  nav: "general"
 ---
 
 ## All disciplines

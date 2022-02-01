@@ -1,9 +1,6 @@
 ---
 permalink: /tutorials/vscode/
 title: VSCode
-subtitle: One text editor to rule them all
-sidebar:
-  nav: "tutorials"
 ---
 
 ## Why you need an IDE

@@ -1,8 +1,6 @@
 ---
 permalink: /general/programming/
 title: Programming
-sidebar:
-  nav: "general"
 ---
 
 - [awesome](https://github.com/sindresorhus/awesome): An awesome list of awesome lists on basically anything you could ever need in your computer
