@@ -14,10 +14,10 @@ sidebar:
 
 ### Markdown
 
-- [Markdown guide](https://www.markdownguide.org/) : A step-by-step guide to everything you can do with Markdown
-- [Pandoc](https://pandoc.org/) : Universal text file converter, works very well with Markdown
-- [Obsidian](https://obsidian.md/) : Organize and connect references and notes using Markdown, following the Zettelkasten method
-- [Zettlr](https://www.zettlr.com/) : An alternative to Obsidian
+- [Markdown guide](https://www.markdownguide.org/): A step-by-step guide to everything you can do with Markdown
+- [Obsidian](https://obsidian.md/): Organize and connect references and notes using Markdown, following the Zettelkasten method
+- [Zettlr](https://www.zettlr.com/): An alternative to Obsidian
+- [Marktext](https://github.com/marktext/marktext): Open source Markdown editor
 
 ### LaTeX
 
@@ -29,6 +29,10 @@ sidebar:
 
 - [Google Jamboard](https://jamboard.google.com/): Collaborate in real time on a virtual white board
 - [Xournal++](https://xournalpp.github.io/) : Software for graphical tablets
+
+### Conversion
+
+- [Pandoc](https://pandoc.org/): Universal text file converter, works very well with Markdown and LaTeX
 
 ### Misc
 

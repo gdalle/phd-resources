@@ -28,5 +28,8 @@ sidebar:
 
 ### Building a website
 
-- [academicpages](https://academicpages.github.io/) and [BeautifulJekyll](https://beautifuljekyll.com/): templates using GitHub pages + Jekyll for free hosting and easy customization
 - [Wordpress](https://wordpress.com/): a WYSIWYG blog editor
+- [GitHub Pages + Jekyll](https://pages.github.com/): a good pipeline for Markdown-based websites. Here are some nice templates:
+  - [academicpages](https://academicpages.github.io/)
+  - [BeautifulJekyll](https://beautifuljekyll.com/)
+  - [MinimalMistakes](https://github.com/mmistakes/minimal-mistakes)
