@@ -1,6 +1,8 @@
 ---
 permalink: /general/admin/
 title: Administrative
+sidebar:
+  nav: "general"
 ---
 
 ## Associations

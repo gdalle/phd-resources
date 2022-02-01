@@ -1,6 +1,8 @@
 ---
 permalink: /tutorials/vscode/
 title: VSCode
+sidebar:
+  nav: "tutorials"
 ---
 
 ## Why you need an IDE

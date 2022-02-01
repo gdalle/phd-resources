@@ -1,6 +1,8 @@
 ---
 permalink: /tutorials/python/
 title: Python
+sidebar:
+  nav: "tutorials"
 ---
 
 If you're looking for something you don't find here, go to [awesome Python](https://github.com/vinta/awesome-python).

@@ -1,6 +1,8 @@
 ---
 permalink: /enpc/admin/
 title: Administrative
+sidebar:
+  nav: "enpc"
 ---
 
 ## Health and prevention

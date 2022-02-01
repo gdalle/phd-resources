@@ -1,11 +1,13 @@
 ---
 permalink: /general/programming/
 title: Programming
+sidebar:
+  nav: "general"
 ---
 
 - [awesome](https://github.com/sindresorhus/awesome): An awesome list of awesome lists on basically anything you could ever need in your computer
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): Similar to awesome
-- [My GitHub stars](https://github.com/gdalle?tab=stars): A random collection of useful open source stuff
+- [My GitHub stars](https://github.com/gdalle?tab=stars): A steadily expanding collection of useful open source stuff
 
 ## Learning to program
 

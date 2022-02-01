@@ -1,6 +1,8 @@
 ---
 permalink: /enpc/digital/
 title: Digital tools
+sidebar:
+  nav: "enpc"
 ---
 
 ## Research

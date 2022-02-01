@@ -1,6 +1,8 @@
 ---
 permalink: /general/health/
 title: Health
+sidebar:
+  nav: "general"
 ---
 
 The first rule of the PhD: your health comes before your research!

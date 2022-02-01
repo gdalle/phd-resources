@@ -1,6 +1,8 @@
 ---
 permalink: /tutorials/jupyter/
 title: Jupyter
+sidebar:
+  nav: "tutorials"
 ---
 
 # Jupyter

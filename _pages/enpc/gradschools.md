@@ -1,6 +1,8 @@
 ---
 permalink: /enpc/gradschools/
 title: Graduate schools
+sidebar:
+  nav: "enpc"
 ---
 
 - [SIE](https://www.univ-paris-est.fr/ecoles-doctorales/ecole-doctorale-sciences-ingenierie-et-environnement-sie/accueil/): Sciences, Ingénierie et Environnement

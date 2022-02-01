@@ -1,6 +1,8 @@
 ---
 permalink: /tutorials/git/
 title: Git(Hub)
+sidebar:
+  nav: "tutorials"
 ---
 
 > Work in progress. In the meantime, here are some great tutorials:

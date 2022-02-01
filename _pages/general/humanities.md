@@ -1,9 +1,11 @@
 ---
 permalink: /general/humanities/
 title: Humanities
+sidebar:
+  nav: "general"
 ---
 
-## All disciplines
+## All fields
 
 - [The Programming Historian](https://programminghistorian.org/): Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows
 
