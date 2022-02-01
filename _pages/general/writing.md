@@ -7,6 +7,8 @@ sidebar:
 
 ## One tool for each format
 
+- [Awesome scientific writing](https://github.com/writing-resources/awesome-scientific-writing): Like this page, but with more stuff
+
 ### Office
 
 - [LibreOffice](https://www.libreoffice.org/): The open source alternative to Microsoft Office (Word, Excel, PowerPoint)
@@ -48,6 +50,7 @@ sidebar:
 - [OpenAcademic](https://www.oacommunity.org/resources) : Various resources and templates related to academic writing
 - [ThesisWhisperer](https://sites.google.com/site/twblacklinemasters/home?authuser=0): One-page tools and workshops for writing
 - 🇫🇷 [Assieds-toi et écris ta thèse](https://www.youtube.com/watch?v=qbQ02vJkXQw) : An hour-long video containing tips for thesis writing
+- [ACRONYM](https://github.com/bacook17/acronym): Acronym CReatiON for You and Me
 
 ### Translation and spelling
 

@@ -61,7 +61,7 @@ To distribute a Python package you developed, please use [Poetry](https://github
 
 ### Operations research
 
-- [NetworkX](https://networkx.github.io): Representing and exploring graphs
+- [NetworkX](https://networkx.github.io) / [retworkX](https://qiskit.org/documentation/retworkx/): Representing and exploring graphs
 - [CVXPY](https://www.cvxpy.org): Solving convex optimization problems
 - [OR Tools](https://developers.google.com/optimization/): Google's optimization solvers
 
