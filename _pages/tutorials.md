@@ -2,7 +2,7 @@
 permalink: /tutorials/
 title: Tutorials
 sidebar:
-    nav: "tutorials"
+  nav: "tutorials"
 toc: false
 ---
 

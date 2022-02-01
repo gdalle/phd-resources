@@ -15,6 +15,7 @@ sidebar:
 ## Government websites
 
 - [MesServicesEtudiant](https://www.messervices.etudiant.gouv.fr/): Your one official stop for campus fees (CVEC), grants, accomodation and much more
+- [ISIC](https://isic.fr/en/): Get your student ID
 - 🇫🇷 [1Jeune1Solution](https://www.1jeune1solution.gouv.fr/mes-aides): Government help for students and young people
 - 🇫🇷 [Aides financières étudiants](https://www.service-public.fr/particuliers/actualites/A14614): 1-euro meals at CROUS for struggling students, mental health subsidies and more
 

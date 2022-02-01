@@ -5,6 +5,8 @@ sidebar:
   nav: "general"
 ---
 
+The first rule of the PhD: your health comes before your research!
+
 ## Mental health
 
 - 🇫🇷 [Psycom](https://www.psycom.org/): General information on mental health resources
@@ -20,10 +22,6 @@ sidebar:
 ### Relaxation
 
 - [PetitBambou](https://www.petitbambou.com/): A meditation app with some free content
-
-### Remote working
-
-- 🇫🇷 [Télétravail en mode Covid](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/teletravail-en-mode-covid-19-on-vous-guide): Government advice and resources, including legal aspects, for home workers
 
 ## Physical health
 

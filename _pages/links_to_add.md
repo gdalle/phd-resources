@@ -4,4 +4,4 @@ title: To-do list
 toc: false
 ---
 
-Here is a list of things I haven't had time to add yet:
+Here is a list of things I haven't had time to add yet.

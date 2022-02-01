@@ -47,7 +47,8 @@ Overleaf hosts a great [collection of templates](https://www.overleaf.com/latex/
 - A simple model for [conference posters](https://fr.overleaf.com/articles/decaf-poster/ryfhdpmwcnpd)
 - A nice two-column [resume](https://github.com/liantze/AltaCV)
 
-### WYSIWYG editors
+### Drawing
 
-- Equation [editor](https://latex.codecogs.com/eqneditor/editor.php) with symbol insertion
-- Drawing [editor](http://latexdraw.sourceforge.net/) to easily construct [Tikz](https://www.overleaf.com/learn/latex/TikZ_package) graphics you can embed in a LaTeX document
+The [Tikz](https://www.overleaf.com/learn/latex/TikZ_package) package allows you to draw anything you want. Take a look at the [Overleaf tutorial](https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ%3A_A_Tutorial_for_Beginners_(Part_1)%E2%80%94Basic_Drawing) to learn more.
+
+If you are too lazy to use Tikz directly, there are WYSIWYG alternatives such as [Tikzit](https://tikzit.github.io/). The same goes for [equations](https://latex.codecogs.com/eqneditor/editor.php) by the way.

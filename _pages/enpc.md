@@ -2,11 +2,11 @@
 permalink: /enpc/
 title: École des Ponts
 sidebar:
-    nav: "enpc"
+  nav: "enpc"
 toc: false
 ---
 
-In this category you will find resources that are specific to students from École des Ponts, or more generally Université Paris-Est. Unfortunately, most of the links given here are in  🇫🇷.
+In this category you will find resources that are specific to students from École des Ponts (ENPC), or more generally Université Paris-Est.
 
 Let's start with a few general guidelines:
 

@@ -13,8 +13,6 @@ general:
         url: /general/admin/
       - title: "Bibliography"
         url: /general/bibliography/
-      - title: "Blogs"
-        url: /general/blogs/
       - title: "Career"
         url: /general/career/
       - title: "Health"
@@ -23,10 +21,8 @@ general:
         url: /general/humanities/
       - title: "Methods"
         url: /general/methods/
-      - title: "Networking"
-        url: /general/networking/
-      - title: "STEM"
-        url: /general/stem/
+      - title: "Programming"
+        url: /general/programming/
       - title: "Teaching"
         url: /general/teaching/
       - title: "Writing"
@@ -67,8 +63,6 @@ full:
         url: /general/admin/
       - title: "Bibliography"
         url: /general/bibliography/
-      - title: "Blogs"
-        url: /general/blogs/
       - title: "Career"
         url: /general/career/
       - title: "Health"
@@ -77,10 +71,8 @@ full:
         url: /general/humanities/
       - title: "Methods"
         url: /general/methods/
-      - title: "Networking"
-        url: /general/networking/
-      - title: "STEM"
-        url: /general/stem/
+      - title: "Programming"
+        url: /general/programming/
       - title: "Teaching"
         url: /general/teaching/
       - title: "Writing"

@@ -2,16 +2,22 @@
 permalink: /tutorials/git/
 title: Git(Hub)
 sidebar:
-    nav: "tutorials"
+  nav: "tutorials"
 ---
 
-> Work in progress
+> Work in progress. In the meantime, here are some great tutorials:
+> 
+> - [Learn Git branching](https://learngitbranching.js.org/)
+> - [Git immersion](https://gitimmersion.com/index.html)
+> - [Git: the simple guide](https://up1.github.io/git-guide/index.html)
+> - [GitHub Learning Lab](https://lab.github.com/)
 
-Roadmap:
+## Version control with Git
 
-- principles of version control with Git
-- collaborating with GitHub
-- websites with GitHub pages & Jekyll
-- continuous integrations with GitHub actions
+## Collaborating with GitHub
+
+## Websites with GitHub pages & Jekyll
+
+## Continuous integrations with GitHub actions
 
 <!-- - [GitKraken](https://www.gitkraken.com/): Git and GitHub without the command line -->
