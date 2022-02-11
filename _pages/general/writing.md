@@ -66,7 +66,7 @@ sidebar:
 ### Visualization
 
 - [diagrams.net](https://app.diagrams.net/): Draw simple diagrams online
-- [BioRender](https://biorender.com/): Create professional science diagrams
+- [BioRender](https://biorender.com/) / [BioIcons](https://bioicons.com/): Create professional science diagrams
 - [Inkscape](https://inkscape.org/): Professional software for generating vector graphics
 - [Data to Viz](https://www.data-to-viz.com/) : Choose the right data visualization
 - [DataVizProject](https://datavizproject.com/): Choose the right data visualization (again)
