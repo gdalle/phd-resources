@@ -117,6 +117,7 @@ To collaborate with colleagues on a list of sources, the easiest way is to creat
 A full list of [tips and tricks](https://www.zotero.org/support/tips_and_tricks) is available in the docs, but here are my favorites:
 
 - When an item is selected, you can see the collection it appears in by pressing `Alt`.
+- To drag and drop an item into another collection *without* it remaining in its original collection as well (move instead of copy), press `Shift` (on Windows / Linux) or `Cmd` (on OSX) while dragging.
 - A right click on the title of a reference allows you to choose the case.
 - To use LaTeX symbols in the fields of a paper (like the title), just add the #LaTeX tag to the Zotero item.
 
