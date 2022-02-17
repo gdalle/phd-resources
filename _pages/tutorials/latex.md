@@ -33,6 +33,8 @@ As for the editor, there are specialized LaTeX editors such as [TeXMaker](https:
 
 Unlike WYSIWYG alternatives such as Microsoft Word and LibreOffice Writer, LaTeX separates the content from the form. As a result, writing LaTeX is a bit like writing source code. Overleaf has a series of great [tutorials](https://fr.overleaf.com/learn) that will teach you the basics, but the only way to get fluent is through practice! If you prefer interactive tutorials where you can test and modify code to experiment, [learnlatex.org](https://www.learnlatex.org/en/) is the way to go.
 
+If you come from the social sciences, check out [LaTeX appliqué aux sciences humaines](http://tug.ctan.org/info/latex-sciences-humaines.pdf).
+
 ## Advanced tips
 
 ### Configuration and packages
