@@ -19,7 +19,7 @@ In addition, I can only recommend this very welcoming online community:
 
 - 🇫🇷 [PhD Students Discord](https://discord.gg/QNRWg6zYQE): Over a thousand grad students from a lot of different fields and backgrounds. Come and join us to ask questions, seek support or simply work together.
 
-Finally, here are a few other websites with similar objectives as mine:
+Finally, here are a few other websites on academia that I like:
 
 - [PhDStudent.com](https://www.phdstudent.com/)
 - [Scriptoria](https://www.scriptoria.org/en/): The blog of a philosophy PhD, currently working as PhD coach
@@ -27,3 +27,4 @@ Finally, here are a few other websites with similar objectives as mine:
 - 🇫🇷 [What Sup](https://what-sup.net/): The blog of a history PhD
 - 🇫🇷 [BienDansMaThèse](https://www.biendansmathese.com/): The website of a PhD student in Materials Science
 - 🇫🇷 [Jefaisunethese.com](https://jefaisunethese.com/): The blog of a PhD in Education science
+- 🇫🇷 [Blog Academia Hypotheses](https://academia.hypotheses.org/): News and explainers on research in humanities, very France-oriented

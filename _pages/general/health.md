@@ -11,6 +11,10 @@ The first rule of the PhD: your health comes before your research!
 
 - 🇫🇷 [Psycom](https://www.psycom.org/): General information on mental health resources
 
+### Fighting back
+
+- 🇫🇷 [Manuel d'auto-défense universitaire](https://academia.hypotheses.org/30161): Learn to recognize and prevent / correct unacceptable situations in academia
+
 ### Psychological support
 
 - [Soutien étudiant](https://www.soutien-etudiant.info/) : List of places where students can find psychological help
