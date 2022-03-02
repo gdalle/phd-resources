@@ -1,8 +1,6 @@
 ---
 permalink: /general/career/
 title: Career
-sidebar:
-  nav: "general"
 ---
 
 ## Finding a job

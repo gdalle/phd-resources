@@ -1,8 +1,6 @@
 ---
 permalink: /general/methods/
 title: Methods
-sidebar:
-  nav: "general"
 ---
 
 ## Workflow

@@ -1,8 +1,6 @@
 ---
 permalink: /general/writing/
 title: Writing
-sidebar:
-  nav: "general"
 ---
 
 ## One tool for each format

@@ -1,8 +1,6 @@
 ---
 permalink: /enpc/admin/
-title: Administrative
-sidebar:
-  nav: "enpc"
+title: Administrative contacts
 ---
 
 ## Health and prevention
@@ -11,10 +9,10 @@ sidebar:
 
 Here are a few posters and flyers (most of them borrowed from <https://www.zjayres.com/posters>), on which you can find local contacts for ENPC students. Feel free to print them and display them in your labs!
 
-- Mental health during your PhD: [poster 1](../../_assets/posters/phd_mental_health_1_enpc.pdf), [poster 2](../../_assets/posters/phd_mental_health_2_enpc.pdf)
-- Mental health during your post-doc: [poster](../../_assets/posters/postdoc_mental_health_enpc.pdf)
-- Impostor syndrome: [poster](../../_assets/posters/impostor_syndrome_enpc.pdf)
-- Sexual harassment at the school: [flyer](../../_assets/posters/sexual_harassment_enpc.pdf)
+- Mental health during your PhD: [poster 1](../../assets/posters/phd_mental_health_1_enpc.pdf), [poster 2](../../assets/posters/phd_mental_health_2_enpc.pdf)
+- Mental health during your post-doc: [poster](../../assets/posters/postdoc_mental_health_enpc.pdf)
+- Impostor syndrome: [poster](../../assets/posters/impostor_syndrome_enpc.pdf)
+- Sexual harassment at the school: [flyer](../../assets/posters/sexual_harassment_enpc.pdf)
 
 ### Contacts
 

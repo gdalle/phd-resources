@@ -1,15 +1,7 @@
 ---
-permalink: /enpc/
-title: École des Ponts
-sidebar:
-  nav: "enpc"
-toc: false
-classes: wide
+permalink: /enpc/general/
+title: General guidelines
 ---
-
-In this category you will find resources that are specific to students from École des Ponts (ENPC), or more generally Université Paris-Est.
-
-Let's start with a few general guidelines:
 
 - [Formation doctorale ENPC](https://www.ecoledesponts.fr/formation-doctorale): General information on the ENPC's doctoral program
 - [Doctorat UPE](https://www.paris-est-sup.fr/doctorat/): Doctoral studies at Université Paris-Est (which includes ENPC but not only)

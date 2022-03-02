@@ -1,8 +1,6 @@
 ---
 permalink: /general/teaching/
 title: Teaching
-sidebar:
-  nav: "general"
 ---
 
 ## Interactive lessons

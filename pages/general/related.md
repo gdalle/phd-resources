@@ -1,13 +1,8 @@
 ---
-permalink: /general/
-title: General stuff
-sidebar:
-  nav: "general"
-toc: false
-classes: wide
+permalink: /general/related/
+title: Related websites
 ---
 
-In this category you will find general tips and tricks that can help PhD students from all walks of life.
 
 Here are a few useful links that are specific to France:
 

@@ -1,8 +1,6 @@
 ---
 permalink: /enpc/labs/
-title: Laboratories
-sidebar:
-  nav: "enpc"
+title: Research laboratories
 ---
 
 - [CEREA](https://www.cerea-lab.fr/): Centre d'Enseignement et de Recherche en Environnement Atmosphérique

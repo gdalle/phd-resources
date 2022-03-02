@@ -1,8 +1,6 @@
 ---
 permalink: /general/bibliography/
 title: Bibliography
-sidebar:
-  nav: "general"
 ---
 
 ## Finding papers
