@@ -19,3 +19,4 @@ Here is a list of things I haven't had time to add yet.
 - QualCoder, Iramuteq, Qgis
 - https://rzine.fr/
 - https://tikzit.github.io/
+- https://www.lateral.io/resources/research-tool-wall
