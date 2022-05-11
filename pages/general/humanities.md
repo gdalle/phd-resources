@@ -10,6 +10,7 @@ title: Humanities
 ### Data analysis
 
 - [Nvivo](https://ritme.com/software/nvivo/): Software for qualitative data analysis
+- 🇫🇷 [Scribe](https://scribe.cemea.org/): Online transcription of audio into text
 
 ### Privacy
 

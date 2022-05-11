@@ -7,7 +7,9 @@ title: Career
 
 ### Before the PhD
 
+- [FindAMasters](https://www.findamasters.com/)
 - [FindAPhD](https://www.findaphd.com/): A large list of PhD offers all over the world
+- [DiscoverPhDs](https://www.discoverphds.com/)
 
 ### After the PhD
 
@@ -15,7 +17,15 @@ title: Career
 - 🇫🇷 [Après le doctorat](https://wwwobs.univ-bpclermont.fr/atmos/fr/enseignement/futur_etudiant/apres_these.php): A summary of some career options after completing a PhD
 - 🇫🇷 [PhDTalent](https://www.phdtalent.fr/): Collaboration between researchers and private companies
 - [Adoc talent Management](https://en.adoc-tm.com/): Consulting firm in recruitment of PhDs
+
+### At all times
+
 - [AcademicPositions](https://academicpositions.com/): One of many similar websites listing academic job offers
+- [VacancyEdu](https://vacancyedu.com/)
+- [EurAxess](https://euraxess.ec.europa.eu/)
+- [UniversityPositions](https://universitypositions.eu/)
+- [ScholarshipDB](https://scholarshipdb.net/)
+- [AcademicTransfer](https://www.academictransfer.com/en/jobs/)
 
 ## Networking
 

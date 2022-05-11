@@ -63,6 +63,8 @@ Zotero comes with a variery of community-developed [plugins](https://www.zotero.
 - [Zotero Folder Import](https://github.com/retorquere/zotero-folder-import) can help you transition from a folder-based file management system to Zotero.
 - [Zotero Storage Scanner](https://github.com/retorquere/zotero-storage-scanner) scans your library for missing or broken attachments.
 - [Zotero SciHub](https://github.com/ethanwillis/zotero-scihub) is something I cannot *officially* recommend to you, but still you're welcome to try it
+- [Zotero OCR](https://github.com/UB-Mannheim/zotero-ocr) performs Optical Character Recognition on your PDF files
+- [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate) translates text automatically within Zotero
 
 #### Automatic metadata
 
@@ -71,7 +73,10 @@ Zotero comes with a variery of community-developed [plugins](https://www.zotero.
 
 #### Other
 
+- [Zotero Tag](https://github.com/windingwind/zotero-tag) manages tags more efficiently
 - [Zutilo](https://github.com/wshanks/Zutilo) provides additional editing features that are missing from the main app.
+- [Notero](https://github.com/dvanoni/notero) syncs Zotero with [Notion](https://www.notion.so/)
+- [Obsidian Citation Plugin](https://github.com/hans/obsidian-citation-plugin) syncs Zotero with [Obsidian](https://obsidian.md/)
 
 ## Daily use
 

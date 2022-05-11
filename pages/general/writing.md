@@ -15,8 +15,6 @@ title: Writing
 ### Markdown
 
 - [Markdown guide](https://www.markdownguide.org/): A step-by-step guide to everything you can do with Markdown
-- [Obsidian](https://obsidian.md/): Organize and connect references and notes using Markdown, following the Zettelkasten method
-- [Zettlr](https://www.zettlr.com/): An alternative to Obsidian
 - [Marktext](https://github.com/marktext/marktext): Open source Markdown editor
 
 ### LaTeX
@@ -42,6 +40,7 @@ title: Writing
 ### Misc
 
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
+- [XMind](https://www.xmind.net/)
 
 ## General tips
 
@@ -55,6 +54,7 @@ title: Writing
 - [DeepL](https://www.deepl.com/translator) : One of the best automatic translators for scientific purposes
 - [LanguageTool](https://languagetool.org/): A spellchecker in multiple languages with browser and Word interfaces
 - [Antidote](https://www.antidote.info/en): Writing assistance software for English and French
+- [Grammarly](https://www.grammarly.com/)
 
 ### Style
 

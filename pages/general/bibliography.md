@@ -13,6 +13,7 @@ title: Bibliography
 - [VosViewer](https://www.vosviewer.com/): Visualize bibliometric networks
 - [Scite.ai](https://scite.ai/): Find papers that cite a given work
 - [ResearchGate](https://www.researchgate.net/): Ask authors directly for their full-text articles
+- [Feedly](https://feedly.com/i/welcome): RSS feed aggregator
 
 ### Preprint servers
 
@@ -34,6 +35,13 @@ The following websites contain millions of full-text articles and books, gathere
 - [Zotero](https://www.zotero.org/): Bibliography management software ([tutorial](../../tutorials/zotero))
 - [Tropy](https://tropy.org/): Zotero for pictures
 - [AnyStyle](https://anystyle.io/): Retrieve a clean bibliography from a list of citations in any style
+
+## Multifunction workspaces
+
+- [Obsidian](https://obsidian.md/): Organize and connect references and notes using Markdown, following the Zettelkasten method
+- [Zettlr](https://www.zettlr.com/): An alternative to Obsidian
+- [Notion](https://www.notion.so/)
+- [LiquidPaper](https://www.liquidtext.net/)
 
 ## Miscellaneous
 
