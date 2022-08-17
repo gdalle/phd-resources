@@ -53,6 +53,7 @@ title: Writing
 
 - [DeepL](https://www.deepl.com/translator) : One of the best automatic translators for scientific purposes
 - [LanguageTool](https://languagetool.org/): A spellchecker in multiple languages with browser and Word interfaces
+- [Spell-checker](https://www.websiteplanet.com/webtools/spell-checker/): Similar to LanguageTool
 - [Antidote](https://www.antidote.info/en): Writing assistance software for English and French
 - [Grammarly](https://www.grammarly.com/)
 
