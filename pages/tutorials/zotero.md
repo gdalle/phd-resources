@@ -29,8 +29,7 @@ Zotero has two main building blocks:
 - The standalone app, which is responsible for storing and handling your references
 - The browser connector, which allows you to directly download papers and metadata into the app when you visit a journal's webpage
 
-Both of these things can be installed from the [downloads page](https://www.zotero.org/download/). However, I recommend installing the [development build](https://www.zotero.org/support/dev_builds) instead of the stable version, since this one comes with an awesome feature: an integrated PDF viewer and editor that plays well with the rest of the app.
-
+Both of these things can be installed from the [downloads page](https://www.zotero.org/download/).
 Installation support is available [here](https://www.zotero.org/support/installation).
 
 ### Synchronization
