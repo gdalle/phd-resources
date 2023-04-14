@@ -58,7 +58,7 @@ Zotero comes with a variery of community-developed [plugins](https://www.zotero.
 
 #### Managing attachments
 
-- [Zotfile](http://zotfile.com/) is useful for renaming attachments, but most importantly it allows you to extract annotations and highlighted text from PDF files and store them as Zotero notes.
+- [Zotfile](http://zotfile.com/) is useful for handling attachments.
 - [Zotero Folder Import](https://github.com/retorquere/zotero-folder-import) can help you transition from a folder-based file management system to Zotero.
 - [Zotero Storage Scanner](https://github.com/retorquere/zotero-storage-scanner) scans your library for missing or broken attachments.
 - [Zotero SciHub](https://github.com/ethanwillis/zotero-scihub) is something I cannot *officially* recommend to you, but still you're welcome to try it

@@ -10,13 +10,3 @@ title: Git(Hub)
 > - [GitHub Learning Lab](https://lab.github.com/)
 > - [Learn Git branching](https://learngitbranching.js.org/)
 > - [Oh Shit, Git!?!](https://ohshitgit.com/)
-
-## Version control with Git
-
-## Collaborating with GitHub
-
-## Websites with GitHub pages & Jekyll
-
-## Continuous integrations with GitHub actions
-
-<!-- - [GitKraken](https://www.gitkraken.com/): Git and GitHub without the command line -->
