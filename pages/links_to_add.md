@@ -22,4 +22,6 @@ Here is a list of things I haven't had time to add yet.
 - https://www.lateral.io/resources/research-tool-wall
 - https://www.phylopic.org/
 - arxivxplorer.com
+- https://www.perplexity.ai/
+- https://elicit.org/
 - Research Rabbit
