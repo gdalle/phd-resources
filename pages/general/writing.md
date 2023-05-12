@@ -20,13 +20,13 @@ title: Writing
 ### LaTeX
 
 - [LaTeX](../../tutorials/latex/): The reference tool for scientific and mathematical writing
-- [Overleaf](https://www.overleaf.com/) : Online LaTeX editor
+- [Overleaf](https://www.overleaf.com/): Online LaTeX editor
 - [Beamer](https://ctan.org/pkg/beamer): A latex package to create slides and posters
 
 ### Handwriting
 
 - [Google Jamboard](https://jamboard.google.com/): Collaborate in real time on a virtual white board
-- [Xournal++](https://xournalpp.github.io/) : Software for graphical tablets
+- [Xournal++](https://xournalpp.github.io/): Software for graphical tablets
 
 ### Slides
 
@@ -44,14 +44,15 @@ title: Writing
 
 ## General tips
 
-- [OpenAcademic](https://www.oacommunity.org/resources) : Various resources and templates related to academic writing
-- [ThesisWhisperer](https://sites.google.com/site/twblacklinemasters/home?authuser=0): One-page tools and workshops for writing
-- 🇫🇷 [Assieds-toi et écris ta thèse](https://www.youtube.com/watch?v=qbQ02vJkXQw) : An hour-long video containing tips for thesis writing
+- [OpenAcademic](https://www.oacommunity.org/resources): Various resources and templates related to academic writing
+- [Whisperer](https://sites.google.com/site/twblacklinemasters/home?authuser=0): One-page tools and workshops for writing
+- 🇫🇷 [Assieds-toi et écris ta thèse](https://www.youtube.com/watch?v=qbQ02vJkXQw): An hour-long video containing tips for thesis writing
 - [ACRONYM](https://github.com/bacook17/acronym): Acronym CReatiON for You and Me
+- [List of Acronyms maker](https://listofacronyms.com/): Online tool that automatically collates a list of abbreviations for your thesis
 
 ### Translation and spelling
 
-- [DeepL](https://www.deepl.com/translator) : One of the best automatic translators for scientific purposes
+- [DeepL](https://www.deepl.com/translator): One of the best automatic translators for scientific purposes
 - [LanguageTool](https://languagetool.org/): A spellchecker in multiple languages with browser and Word interfaces
 - [Spell-checker](https://www.websiteplanet.com/webtools/spell-checker/): Similar to LanguageTool
 - [Antidote](https://www.antidote.info/en): Writing assistance software for English and French
@@ -59,13 +60,13 @@ title: Writing
 
 ### Style
 
-- [Academic phrasebank](https://www.phrasebank.manchester.ac.uk/) : Bank of expressions to improve scientific writing
-- [Thesaurus](https://www.thesaurus.com/) : Extend your vocabulary with synonyms and antonyms
+- [Academic phrasebank](https://www.phrasebank.manchester.ac.uk/): Bank of expressions to improve scientific writing
+- [Thesaurus](https://www.thesaurus.com/): Extend your vocabulary with synonyms and antonyms
 
 ### Visualization
 
 - [diagrams.net](https://app.diagrams.net/): Draw simple diagrams online
 - [BioRender](https://biorender.com/) / [BioIcons](https://bioicons.com/): Create professional science diagrams
 - [Inkscape](https://inkscape.org/): Professional software for generating vector graphics
-- [Data to Viz](https://www.data-to-viz.com/) : Choose the right data visualization
+- [Data to Viz](https://www.data-to-viz.com/): Choose the right data visualization
 - [DataVizProject](https://datavizproject.com/): Choose the right data visualization (again)
